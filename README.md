@@ -37,7 +37,7 @@ score. So I'll choose `LinearSVC` and `LogisticRegression` to tuning, and the re
 
 Considering this is only a quit mini dataset and our purpose is scaling this up to the total 12G  dataset, so, the logistic regression is the best model from now on in this project.
 
-Please check my blog post to get more details, here is the [link](X).
+Please check my blog post to get more details, here is the [link](https://medium.com/@david.gorzon/churn-game-predicting-the-churners-c3dd167e4eae).
 
 ## References
 
